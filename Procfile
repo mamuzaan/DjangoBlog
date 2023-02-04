@@ -1,0 +1,1 @@
+web: gunicorn codestar20220.wsgi
